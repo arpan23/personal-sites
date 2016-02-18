@@ -91,6 +91,7 @@ Hackathon Hackers' GitHub profiles
 - Arnaud Schenk https://github.com/arnsch
 - Arnold Wey https://github.com/PandaStrawberry
 - Arush Shankar https://github.com/arushs
+- Arpan Rughani https://github.com/arpan23
 - Arya Boudaie https://github.com/Misingnoglic
 - Asaph Yuan https://github.com/asaphy
 - Asheer Tanveer https://github.com/Asheer
